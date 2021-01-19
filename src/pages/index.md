@@ -14,7 +14,7 @@ intro_actions:
     url: /contact
     style: icon
     icon_class: envelope
-has_more_link: true
+has_more_link: false
 more_link_text: Read more
 template: home
 ---
