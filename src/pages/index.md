@@ -13,7 +13,7 @@ intro_actions:
   - label: Contact
     url: /contact
     style: icon
-    icon_class: fa-
+    icon_class: instagram
 has_more_link: true
 more_link_text: Read more
 template: home
